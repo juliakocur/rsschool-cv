@@ -38,7 +38,7 @@ ___
 
 ___
 
-## *** Languages***
+## ***Languages***
 
 + Russian - native speaker
 + English - A2
