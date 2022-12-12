@@ -1,0 +1,125 @@
+
+body {
+    font-family: 'Roboto Slab', serif;
+    background-color: rgb(216, 208, 208);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0px auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+HTML {
+    scroll-behavior: smooth;
+}
+
+
+.nav-list {
+    list-style: none;
+} /* убираем стандартные маркеры (точки) */
+
+.nav-link {
+    padding: 30px 100px 25px 30px;
+    line-height: 20px;
+}
+
+.nav-link {
+    transition: .3s;
+}  /* чтбы свойства менялись плавно */
+
+.nav-list a {
+    color: rgb(96, 46, 189)
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.nav-list a:hover {
+    color: rgb(243, 43, 43)
+}
+
+.navigation {
+    background-color: rgb(248, 169, 104);
+    padding: 2px 0 0 0;
+}
+
+img {
+    width: 25%;
+    height: 50%;
+    float: left;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: left;
+    padding-bottom: 0;
+}
+
+h2 {
+    text-align: left;
+    padding-left: 30px;
+}
+
+.text {
+    font-size: 18 px;
+    line-height: 150%;
+    padding: 70px 150px 30px 30px;
+}
+
+.contacts {
+    padding: 50px 10px 0 150px;
+    line-height: 150%;
+}
+
+hr {
+    border:none;
+    background-color: coral;
+    height: 2px;
+}
+
+.skills {
+    margin-left: 60%;
+    line-height: 20px;
+}
+
+.code {
+    padding: 0 10px 0 150px;
+    line-height: 150%;
+}
+
+.education {
+    margin-left: 60%;
+    line-height: 20px;
+}
+
+.languages {
+    padding: 0 10px 0 150px;
+    line-height: 150%;
+}
+
+li {
+    margin-bottom: 1em;
+}
+
+.text_footer {
+    text-align: right;
+    font-size: 25px;
+    line-height: 130%;
+    padding: 45px 120px 30px 30px;
+}
