@@ -31,10 +31,17 @@ function multiply(a,b) {
 
 ___
 
+## ***My projects***
+
++[Momentum](https://rolling-scopes-school.github.io/juliakocur-JSFEPRESCHOOL2022Q4/momentum/)
++[Plants](https://rolling-scopes-school.github.io/juliakocur-JSFEPRESCHOOL2022Q4/plants/)
++[CV](https://juliakocur.github.io/rsschool-cv/)
+___
+
 ## ***Education***
 
 + Minsk Innovation University
-+ RS Schools Course "JavaScript/Front-end" Stage 0 (in process...)
++ RS Schools Course "JavaScript/Front-end" Stage 0
 
 ___
 
