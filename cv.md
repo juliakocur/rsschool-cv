@@ -16,7 +16,8 @@ I worked as a bank customer service specialist for 10 years. Focus on results an
 ___
 ## ***Skills***
 
-+ Microsoft Office
++ HTML
++ CSS
 + Adobe Photoshop
 
 ___
@@ -36,6 +37,7 @@ ___
 + [Momentum](https://rolling-scopes-school.github.io/juliakocur-JSFEPRESCHOOL2022Q4/momentum/)
 + [Plants](https://rolling-scopes-school.github.io/juliakocur-JSFEPRESCHOOL2022Q4/plants/)
 + [CV](https://juliakocur.github.io/rsschool-cv/)
+
 ___
 
 ## ***Education***
