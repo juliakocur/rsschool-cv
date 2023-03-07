@@ -15,7 +15,7 @@ body {
 }
 
 .container {
-    max-width: 1440px;
+    min-width: 1440px;
     margin: 0px auto;
 }
 
@@ -29,6 +29,10 @@ HTML {
     scroll-behavior: smooth;
 }
 
+main {
+    max-width: 1440px;
+    margin: auto;
+}
 
 .nav-list {
     list-style: none;
@@ -44,13 +48,13 @@ HTML {
 }  /* чтбы свойства менялись плавно */
 
 .nav-list a {
-    color: rgb(96, 46, 189)
+    color: rgb(96, 46, 189);
     text-decoration: none;
     transition: color 0.5s;
 }
 
 .nav-list a:hover {
-    color: rgb(243, 43, 43)
+    color: white;
 }
 
 .navigation {
@@ -62,7 +66,7 @@ img {
     width: 25%;
     height: 50%;
     float: left;
-    padding: 50px;
+    padding: 50px 50px 0 50px;
 }
 
 h1 {
@@ -73,17 +77,16 @@ h1 {
 
 h2 {
     text-align: left;
-    padding-left: 30px;
 }
 
 .text {
     font-size: 18 px;
     line-height: 150%;
-    padding: 70px 150px 30px 30px;
+    padding: 70px 150px 70px 30px;
 }
 
 .contacts {
-    padding: 50px 10px 0 150px;
+    margin-left: 10%;
     line-height: 150%;
 }
 
@@ -94,23 +97,28 @@ hr {
 }
 
 .skills {
-    margin-left: 60%;
+    margin-left: 70%;
     line-height: 20px;
 }
 
 .code {
-    padding: 0 10px 0 150px;
+    margin-left: 10%;
     line-height: 150%;
 }
 
-.education {
-    margin-left: 60%;
+.projects{
+    margin-left: 70%;
     line-height: 20px;
 }
 
-.languages {
-    padding: 0 10px 0 150px;
+.education {
+    margin-left: 10%;
     line-height: 150%;
+}
+
+.languages {
+    margin-left: 70%;
+    line-height: 20px;
 }
 
 li {
@@ -122,4 +130,9 @@ li {
     font-size: 25px;
     line-height: 130%;
     padding: 45px 120px 30px 30px;
+}
+
+.footer{
+    max-width: 1440px;
+    margin: auto;
 }
